@@ -11,7 +11,7 @@ public class Q7 {
             System.out.println(num +" is a power of 4");
          }
          else{
-            System.out.println(num +" is a not power of 4");
+            System.out.println(num +" is not a power of 4");
          }
     }
 }
