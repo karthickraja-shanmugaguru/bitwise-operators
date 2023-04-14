@@ -11,6 +11,7 @@ public class Q5 {
         }
         else{
             System.out.println("Even");
+            
         }
     }
 }

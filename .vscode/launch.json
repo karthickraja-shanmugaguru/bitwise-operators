@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q7",
+            "request": "launch",
+            "mainClass": "Q7",
+            "projectName": "Bitwise operator_a51facce"
+        },
+        {
+            "type": "java",
+            "name": "Q6",
+            "request": "launch",
+            "mainClass": "Q6",
+            "projectName": "Bitwise operator_a51facce"
+        },
+        {
+            "type": "java",
             "name": "Q5",
             "request": "launch",
             "mainClass": "Q5",
